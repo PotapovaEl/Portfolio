@@ -1,0 +1,386 @@
+user_id,source,category
+1840e0b9d4,other,Продукты
+4e4f90fcfb,context,Электроника
+afea8d72fc,other,Электроника
+2824221f38,email,Продукты
+373a6055fe,other,Бытовая техника
+9b2ab046f3,other,Электроника
+9f39d307c3,context,Электроника
+44edeffc91,context,Продукты
+704474fa2d,other,Продукты
+1de31be403,other,Бытовая техника
+5da0dedf13,context,Досуг
+b71f36a5e4,other,Продукты
+79843a685a,context,Продукты
+ff68cee0d6,context,Бытовая техника
+e8447c40e2,email,Досуг
+b9ef8fdf47,other,Продукты
+98d290be27,other,Электроника
+3fff459bda,other,Электроника
+fa0079a5a8,other,Досуг
+fdd6b2fc76,context,Бытовая техника
+54ecd881a2,other,Бытовая техника
+22d2f03a17,context,Досуг
+c9fa1b54d5,other,Продукты
+3f8e1ccd3f,other,Электроника
+81a9988b83,context,Электроника
+65f44a2eb7,context,Досуг
+6df948569b,other,Бытовая техника
+5f8fbb0149,other,Бытовая техника
+3ecff691fd,context,Электроника
+dd0e912251,other,Электроника
+9250593d55,other,Электроника
+37c4e090e4,other,Электроника
+22fa3ea76f,other,Электроника
+73b876b237,context,Электроника
+ed6b87f95d,context,Досуг
+f983a69d67,other,Товары для животных
+4ea17212f8,other,Продукты
+c6de96a5e2,other,Товары для животных
+4175fd2e58,other,Электроника
+d8e3bcee53,context,Продукты
+680aa815f9,other,Продукты
+4a92a68cf9,other,Электроника
+905e60cb52,other,Бытовая техника
+393bcfb298,other,Продукты
+06d450cc57,context,Электроника
+b60ce22f17,other,Электроника
+6f159c4c2e,other,Товары для животных
+564202f6bd,context,Электроника
+1908683775,other,Электроника
+8fd957a463,other,Продукты
+72e0a3f1d0,other,Бытовая техника
+7f5f56e517,other,Досуг
+bc1a0a7e26,other,Досуг
+17639fe89d,other,Досуг
+74c9201f84,context,Электроника
+bc4ebda0df,other,Досуг
+fe4615dd15,other,Досуг
+d2c560746d,other,Бытовая техника
+f0a93d52d2,other,Электроника
+fe52ded300,other,Электроника
+dbe70d84e4,context,Строительство и ремонт
+f660dbcc3f,context,Электроника
+f93283c9ee,other,Бытовая техника
+66bea9bf58,other,Бытовая техника
+111c52d9bc,other,Продукты
+16dc76e94d,other,Электроника
+87f37b380c,other,Продукты
+365e3edd2e,other,Бытовая техника
+830421d975,other,Продукты
+7d6c62f0a2,context,Бытовая техника
+77465a0b61,other,Бытовая техника
+ee9eb52181,email,Товары для животных
+871c1fa9ae,other,Продукты
+03b91dba06,other,Электроника
+6cb42b2632,email,Бытовая техника
+c7f6fbe42f,other,Бытовая техника
+9ab8f3bbb8,context,Бытовая техника
+63df9ee9d3,context,Электроника
+2ffd6c724d,other,Продукты
+af24cffd03,context,Электроника
+421149bb9a,other,Строительство и ремонт
+24300c6d1c,other,Электроника
+40fe35eb76,email,Строительство и ремонт
+9ca11a651f,email,Электроника
+b7e640032f,other,Электроника
+3691ad282b,other,Электроника
+00ea2f7484,other,Электроника
+6f198ac1c9,other,Бытовая техника
+0d479d4259,other,Электроника
+2c8067b7a3,other,Продукты
+b461051101,other,Досуг
+d39a1d56c3,context,Бытовая техника
+316ab03143,None,Товары для животных
+78ed39a415,other,Электроника
+fd2c2b59b9,context,Бытовая техника
+19d1e4e036,context,Товары для животных
+9e765c6822,other,Продукты
+ddd50eaa45,other,Электроника
+e07b13abd0,email,Бытовая техника
+c21b82499e,context,Электроника
+da79d9ff30,other,Товары для животных
+eded5c6792,context,Досуг
+e3654c7f1a,other,Досуг
+d20bf10c78,other,Бытовая техника
+12de58d8e6,other,Продукты
+ab8e0c1a01,context,Досуг
+ea10f78fec,other,Продукты
+de85ea0eb6,other,Электроника
+dfe6f4ebb4,other,Бытовая техника
+9d25ac3886,context,Досуг
+ddf1af2d3f,other,Бытовая техника
+d47dd8b814,other,Электроника
+c5e1bf636a,context,Электроника
+eb5654cf30,other,Продукты
+a86e69db63,other,Продукты
+d15327eae3,email,Электроника
+5278408c4c,other,Электроника
+91802f78b2,other,Электроника
+f46375940f,context,Досуг
+152ea9bb42,other,Бытовая техника
+06569907e6,other,Бытовая техника
+9f5bf9b73f,other,Строительство и ремонт
+ec11793734,other,Продукты
+0cf6ee6c84,context,Бытовая техника
+f9a3ef9ac2,context,Продукты
+716a1b4e10,context,Продукты
+42e3b7d1a1,other,Бытовая техника
+426fa041ad,other,Электроника
+e63af2c8b8,other,Бытовая техника
+c0cd6e93e6,other,Электроника
+85ff218333,other,Строительство и ремонт
+f0dfb618b4,other,Товары для животных
+f537f6c8ea,other,Бытовая техника
+733b99b95b,other,Электроника
+749e8694c5,context,Товары для животных
+116f29a8af,email,Электроника
+29586e4061,other,Продукты
+e9eaffa80a,context,Бытовая техника
+da237781d5,context,Продукты
+b7195283e1,other,Товары для животных
+62f37b821c,context,Досуг
+69ae0afab1,other,Продукты
+7fa3bf64b4,other,Досуг
+4e603d8878,other,Строительство и ремонт
+f1b744e6ef,other,Бытовая техника
+6812661e1c,other,Электроника
+fea946e2a6,other,Электроника
+6aff7a1677,context,Бытовая техника
+e43ad75353,email,Продукты
+88afad2ad9,other,Продукты
+0fa7c5b19c,other,Товары для животных
+bed9ab14bd,other,Товары для животных
+b30f6a38da,other,Электроника
+74b06f9902,email,Строительство и ремонт
+397005e41e,other,Бытовая техника
+80023b95ac,other,Электроника
+9fb91262f8,other,Бытовая техника
+f34a165ad2,other,Электроника
+5b7c1e9769,email,Бытовая техника
+5655da0e0b,other,Электроника
+ef33021c36,context,не определена
+b15321ea7c,other,Продукты
+0d4f4664e0,context,Продукты
+90ecb23d7c,other,Электроника
+a2468d6c33,context,Электроника
+a8660dcfae,context,Бытовая техника
+8abc724d78,other,Бытовая техника
+a7bfa5d0cc,context,Досуг
+6e6293a54b,context,Досуг
+2bfb139a80,other,Электроника
+48b9ea8b65,other,Электроника
+fb9acee964,None,Бытовая техника
+69775511be,context,Досуг
+95bf67fda9,other,Продукты
+ca899d23dd,other,Бытовая техника
+2de051e056,context,Электроника
+0da9ca70fe,context,Продукты
+fcc5bebc42,context,Бытовая техника
+51f6ce88cc,other,Бытовая техника
+74a55eee1d,other,Электроника
+69475b45df,context,Бытовая техника
+816800e62f,context,Бытовая техника
+28ce699720,other,Бытовая техника
+f0d57ef042,other,Электроника
+39325a5a80,other,Досуг
+c577b4b31e,other,Продукты
+4038202869,other,Электроника
+1405e18ffb,context,Досуг
+c0cc01a6a4,other,Электроника
+4cd8bde9ac,context,Продукты
+f924cacd6d,other,Электроника
+8c5eeb346a,context,Бытовая техника
+853f7ea287,other,Продукты
+3b1fb2ad3f,other,Электроника
+8c45fdbf5a,other,Электроника
+614aaf466d,other,Бытовая техника
+a6a4ff39f8,other,Бытовая техника
+55effa36e0,other,Продукты
+51d4f4b9d5,other,Бытовая техника
+694fdf8197,context,Электроника
+33a4dbd193,other,Электроника
+bc2b6ade51,other,Электроника
+e371c40a07,context,Электроника
+74d3a4830b,context,Продукты
+be78adf037,other,Электроника
+fceaddb1f5,other,Электроника
+63f9ec63df,None,Бытовая техника
+627fb82e41,other,Бытовая техника
+a7091d1405,other,Бытовая техника
+c74d0b4602,context,Электроника
+a8c4da0681,other,Электроника
+47ec449fbe,context,Строительство и ремонт
+ee19ad0e7b,other,Бытовая техника
+9b63ed579f,context,Строительство и ремонт
+508e26d325,other,Электроника
+9cdc26ff6c,other,Электроника
+be8c8f1a63,context,Продукты
+c59381af1d,other,Строительство и ремонт
+bc40fc5c3b,other,Продукты
+5bc256883c,other,Электроника
+800ad1974f,other,Электроника
+36b0b3a179,email,Бытовая техника
+0ea0c758a5,other,Продукты
+12764a8382,context,Строительство и ремонт
+fbcb38042a,other,Бытовая техника
+b3fe11defe,email,Продукты
+1909ff3b18,context,Продукты
+cc85b81371,other,Продукты
+36d248e31c,context,Продукты
+84b1b23768,context,Досуг
+44174c696c,other,Продукты
+640232cec2,context,Бытовая техника
+2e8723f652,other,Продукты
+2ffcf27605,other,Бытовая техника
+94e132ac2a,other,Досуг
+433af0c12b,other,Продукты
+24c047fa51,other,Электроника
+30fa49eb81,other,Бытовая техника
+d9a640bee2,other,Электроника
+147df43b96,context,Продукты
+f84cfd5fdc,context,Бытовая техника
+8684af0a5d,other,Досуг
+bbec49524b,context,Электроника
+e95d728116,other,Продукты
+5392a9dd06,other,Строительство и ремонт
+8c9c7efbdb,context,Бытовая техника
+8e7cb8744a,other,Продукты
+a41b59347a,other,не определена
+c1a0da9976,other,Электроника
+9e7126c1f7,other,Строительство и ремонт
+49e9a83a56,context,Электроника
+b3391af5f3,other,Бытовая техника
+9c4d9e37b8,other,Электроника
+1eee1b1995,other,Электроника
+d61df629df,other,Продукты
+f67f61db9e,other,Электроника
+73d9a7f6d5,other,Продукты
+5ebea046cd,other,Электроника
+eb7ff574cc,context,Электроника
+ccfa85981e,other,Бытовая техника
+3def3c47e0,email,Электроника
+56183e3be7,other,Продукты
+5a8c6a6214,other,Досуг
+9c6916078e,other,Бытовая техника
+f99c733c58,other,Электроника
+301db812db,other,Электроника
+27be75d1bf,other,Электроника
+ba38172577,context,Досуг
+f0706bb95e,other,Продукты
+ac317ed5da,other,Электроника
+56ac42291c,other,Электроника
+d2e5eece34,email,Бытовая техника
+5e5398d531,context,Электроника
+7c62be614e,other,Строительство и ремонт
+8b2f2ce9f1,other,Электроника
+8d726fa305,other,Бытовая техника
+81ebf6e699,other,Электроника
+2ffc0ac898,other,Продукты
+3953e7d027,context,Электроника
+abbaaeeec6,context,Товары для животных
+b3347f9015,other,Электроника
+5f4ccaec06,context,Электроника
+61f09c8e23,other,Электроника
+d4004b3288,other,Досуг
+ccdb17354a,context,Продукты
+2f15ed507f,other,Электроника
+1165b9e353,email,Досуг
+0a22ae5507,other,Электроника
+e43e102688,other,Досуг
+7e33fda510,other,Электроника
+2da9fe5598,other,Электроника
+bdec18f74e,context,Продукты
+41a4f49b7f,other,Электроника
+9df56d0753,email,Продукты
+4dd6cf0dea,other,Строительство и ремонт
+c86f800915,other,Бытовая техника
+422ac66d5a,other,Электроника
+7ff7a48697,other,Электроника
+d8557c45f3,other,Продукты
+04405bf835,other,Продукты
+987dc6321c,other,Электроника
+48a32ff3cc,context,Электроника
+deba35d5a8,other,Бытовая техника
+42ec6aa3cb,other,Продукты
+3f93050f90,other,Досуг
+8a0c7e0dfc,context,Товары для животных
+73aa62d288,other,Электроника
+3e75e9c62e,other,Электроника
+c9ca4f00dd,email,Продукты
+72d11d2013,context,Бытовая техника
+991072196d,context,Бытовая техника
+092337723c,other,Электроника
+642295148f,other,Электроника
+e8dcb49bc2,other,Досуг
+b97069ed8f,other,Бытовая техника
+f127ee3e08,other,Бытовая техника
+78c61cf048,other,Электроника
+28ed9a2680,context,Товары для животных
+547434b3fc,context,Строительство и ремонт
+ec0d778ca8,other,Электроника
+0680efd24d,context,Электроника
+8c6a576009,other,Бытовая техника
+26daa6bcff,email,Товары для животных
+63eea77eac,other,Досуг
+a771274455,context,Строительство и ремонт
+c92680024a,context,Досуг
+0f359c5def,context,Электроника
+81b86551e0,other,Товары для животных
+b694d9fb7e,context,не определена
+34abde015c,other,Бытовая техника
+2feeed4e90,context,Электроника
+e50f766aee,other,Электроника
+773030b2e2,context,Бытовая техника
+a760d2ebe8,other,Электроника
+b45d0d2b02,other,Электроника
+61c29f2324,other,Электроника
+da177dee2e,email,Досуг
+e2389b2f7d,context,Электроника
+9443ea597f,other,Строительство и ремонт
+c9d93ee37c,context,Электроника
+122eafaf38,other,Продукты
+609c12b911,other,Продукты
+9b2ff5eba6,other,Бытовая техника
+ae7b2f668e,context,Продукты
+282ee749cd,other,Продукты
+4b1bc949e6,other,Продукты
+a5669f7711,email,Товары для животных
+ca20e247ce,other,Продукты
+f88b4269c5,context,Товары для животных
+8afd34ea5d,email,Электроника
+0b964583be,other,Продукты
+2419ce61b8,other,Досуг
+4dd2890bda,context,Электроника
+2e74cb6a8a,other,Электроника
+db51313879,other,Продукты
+c31aa4037a,context,не определена
+ffde2d54b0,other,Электроника
+23b5af6334,other,не определена
+ba076e04d6,other,Электроника
+1a9515473a,other,Товары для животных
+2571da9158,other,Строительство и ремонт
+a546b7ee7c,other,Досуг
+a677351888,context,Электроника
+64bcd9b25a,other,Строительство и ремонт
+b2d09e3401,email,Бытовая техника
+0a96362e4d,other,Бытовая техника
+854a5623f0,other,Продукты
+da4df206c2,context,Строительство и ремонт
+f744545cc3,context,Бытовая техника
+7af958b044,other,Товары для животных
+3ea58635a3,context,Электроника
+3258e62b94,email,Электроника
+262f3fc8b5,other,Электроника
+18e33e0244,email,Электроника
+5f58fedc8c,other,Строительство и ремонт
+1c29031015,other,Бытовая техника
+c4925e020b,other,Электроника
+fb8c4d7204,other,Бытовая техника
+eb986e44ed,email,Электроника
+5f8e41e9fe,other,Бытовая техника
+932ddf4781,context,Досуг
+7675997d49,context,Досуг
+5987dcf8a4,other,Бытовая техника
+89df00704c,context,Строительство и ремонт
+c2d2d8ac77,other,Бытовая техника
