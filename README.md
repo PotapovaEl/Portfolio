@@ -2,7 +2,7 @@
 Examples of my homework and case solutions
 
 
-***Структура***
+***Содержание***
 
 - python_hw - учебные проекты курса Python для анализа данных (двадцать один учебный кейс)
 
